@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "All Posts"
+    url: /_docs/
+  - title: "Collections"
+    url: /collection-archive/
+  - title: "Google"
+    url: https://chat.openai.com/
+  - title: "About"
+    url: https://mmistakes.github.io/minimal-mistakes/about/

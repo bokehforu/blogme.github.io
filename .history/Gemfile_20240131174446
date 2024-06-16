@@ -1,0 +1,13 @@
+
+
+source "https://rubygems.org"
+
+gem "jekyll"
+
+gem 'jekyll-seo-tag'
+
+gem "jekyll-theme-centos"
+
+gem 'jekyll-remote-theme'
+
+
