@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Notes-page for How To Read MTF Curves"
+title: "Notes for ‘How To Read MTF Curves’ article"
 date: 2024-06-18
-
 ---
+
 
 文章翻译, 阅读, 解读MTF曲线, 笔记总结
 # Preface
@@ -11,6 +11,8 @@ date: 2024-06-18
 The following context and material are sourced from Dr. H.H. Nasse's articles.  Many many thx for sharing and explain MTF in the preview articles.  However, I still had no understanding at all when I read those articles during my first year of bachelor studies. I will attempt to write this article in my own words without using any grammar or AI tools.  I have to say in some places, I will use some “direct copy” sentences. I don't consider this as a form of academic plagiarism, as I am writing this post for learning in photography as an enthusiast.
 
 I listed the all used article below. Again, I will use some images and words directly without any citations. If you have any concerns about this post, PLZ contact me at (notmyemailcode@gmail.com) for specific sections throughout the entire article. I will do it for you ASAP. 
+
+
 
 [1]**Intro. (ZEISS page)** 
 
@@ -24,13 +26,7 @@ I listed the all used article below. Again, I will use some images and words dir
 
  [https://lenspire.zeiss.com/photo/app/uploads/2018/04/CLN_MTF_Kurven_2_en.pdf](https://lenspire.zeiss.com/photo/app/uploads/2018/04/CLN_MTF_Kurven_2_en.pdf)
 
-[4]**Nikon: What is a Lens MTF Chart & How Do I Read It?**
-
-[https://www.nikonusa.com/learn-and-explore/c/products-and-innovation/what-is-a-lens-mtf-chart-how-do-i-read-it](https://www.nikonusa.com/learn-and-explore/c/products-and-innovation/what-is-a-lens-mtf-chart-how-do-i-read-it)
-
-[5]**如何閱讀MTF(一), Weifu Lin | 林渭富**
-
-[如何閱讀mtf-f85a60cf59c](https://medium.com/one-eyed-poet/)
+[4] 如何閱讀MTF(一), Weifu Lin 林渭富 [如何閱讀mtf-f85a60cf59c](https://medium.com/one-eyed-poet/)
 
 (以上引用都没有被作者授权, 如有侵权, 本人会尽快删除, 文章承认前置的引用的文章的所有贡献.  本文章没有传播价值和商业价值, 是我看了引用的文章的笔记, 理解上的总结与整理 )
 
