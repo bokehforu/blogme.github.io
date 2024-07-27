@@ -338,19 +338,53 @@ $$
 
 精細的，重複變化的圖案，僅僅只佔據我們的視覺功能中用來辨識影像品質的一小部分。重點是明暗不同亮度區域之間的邊界。因此，蔡司還必須研究MTF與邊界再現（reproduction）兩者的關係。說到這，我們不得不回到起點：點擴散函數。
 
-然后在文章中就出现了4个图, which is由三并排图组而呈现的设计(有点绕口), 我一次性放在下面, 
+然后在文章中就出现了4个图, which is由三并排图组而呈现的设计(有点绕口), 我一次性按顺序放在下面, 
 
+1⃣️
 
+![howToReadMTFpic9.2](../assets/images/howToReadMTF/howToReadMTFpic9.2.png)
 
+2⃣️
 
+![howToReadMTFpic9.3](../assets/images/howToReadMTF/howToReadMTFpic9.3.png)
 
+3⃣️
 
+![howToReadMTFpic9.3](../assets/images/howToReadMTF/howToReadMTFpic9.4.png)
 
+4⃣️
 
+![howToReadMTFpic9.1](../assets/images/howToReadMTF/howToReadMTFpic9.1.png)
 
+The following images show from left to right:
 
+**Intensity profile of the point spread function**, 也就是每个图中的第一个section, 这个是光的点扩散函数, which means  that 点光源/或者说一束光在通过镜头折射穿透后, 在传感器上的分散的切面, 我觉得可以理解成底部的位置就是传感器的感光位置, 以图1⃣️为例子, 这是一个很好的镜头成像, 非常清晰, 点光源只扩散到了-20µm和20µm之间, 
 
+**Intensity profile of two edge images**, 对于这里的Edge profile我的理解是主要关注0µm处如何变化, 还是以图1⃣️为例, 发现在0µm初变化的非常快速, 这是一个好的镜头的表现.
 
+The corresponding **modulation transfer** 这里是柱状体描述的MTF图示, 拜文章所赐, 文章会见到不同厂商各式各样的格式,方法和规格的MTF的图片. 还是以图1⃣️为例, 这是一个非常好的MTF小图, 不知读者有没有意识到, 从5Lp/mm开始接近100%的MTF率, 到80Lp/mm下仍然保持了接近于50%的MTF率. 原作者评价$\rightarrow$ The image of the edge is sharp. In the language of modulation transfer, this characteristic is recognized by the fact that all values at the important spatial frequencies are very high and do not decrease so strongly towards the higher frequencies.
+
+For a lens with such imaging performance, the image quality achieved is usually limited by the sensor or by other factors such as focusing accuracy, camera movements etc. 好家伙, 镜头不会限制图像的表现, 差的结果是一些客观的因素. 
+
+下面是针对不同的图的结果分析
+
+#### Pic 1
+
+<img src="../assets/images/howToReadMTF/howToReadMTFpic9.2.1.png" alt="howToReadMTFpic9.2.1" style="zoom:33%;" />
+
+**Intensity profile of the point spread function** for Pic 1.1 
+
+这个图在之前解释过, 可以被考虑成是一个竖直光线照在传感元件上的横切面, 可以想象成一个千层蛋糕的切面. 同时也在之前提及过, 这个数据非常非常优秀, 
+
+<img src="../assets/images/howToReadMTF/howToReadMTFpic9.2.2.png" alt="howToReadMTFpic9.2.2" style="zoom:33%;" />
+
+**Intensity profile of two edge images** for Pic 1.1
+
+在之前的解释中, 没有被明确指出, 现在, 可以注意在新的图示中我划出来的红色竖线, 这表示明暗的交接线. 可以看到, lens有非常非常好的过度变化, 在经过0的时候瞬间过了,
+
+**Modulation transfer** MTF for Pic1.1
+
+非常非常优秀的MTF曲线表示, 在5lp/mm情况下,  正常的随着条纹更加精细而不断下降的数值, 合理而正常.
 
 
 
