@@ -386,9 +386,7 @@ For a lens with such imaging performance, the image quality achieved is usually 
 
 非常非常优秀的MTF曲线表示, 在5lp/mm情况下,  正常的随着条纹更加精细而不断下降的数值, 合理而正常.
 
+本来是计划把4个表都解释一遍, 但是发现, 好像没有现实意义, 因为文章的意图是理解MTF曲线, 但是这种形式的MTF曲线已经不再使用. 但是在这个部分要指出的是, MTF测量表会不准, 显示 出错误的数据信息, 在文章中的例子就是, 比如现实图像在影射后, 在cmos上位移会没有显示清晰的图像, 但是位移的图像在某个Lp/mm的条纹下, 移动到了下一个位置, 导致图像没有变模糊, 仍然清晰. 虽然镜头的素质没有提高, 但是由于测试的是这种特殊的条纹, 让MTF的曲线的数据提高, 这是虚假的成绩. 这个现象在文章中被专门指出. 我在这里直接引用, **But:** There is no contrast at 40lp/mm! <font color='red'>The curve of the modulation transfer can drop to zero and then increase again.</font>  This is then called “spurious resolution”, which is a somewhat unfortunate expression because the structure with 60lp/mm is reproduced with a clear resolution.
 
-
-
-
-
+## 文章中的第四种MTF曲线(The MTF values of this 4th type)
 
